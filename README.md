@@ -128,8 +128,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/uDkD7Lv.png" height="65%" width="65%" alt="list of current SLA"/>
     </p>
 <hr>
-- <b><i> Configure Help Topics</b></i>
-    1. Admin Panel -> Manage -> Help Topics
+- <b><i> Configure </b></i> <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html?highlight=help%20topics">Help Topics</a>
+     <h5>Admin Panel -> Manage -> Help Topics</h5>
         <li> Business Critical Outage </li>
         <li> Personal Computer Issues </li>
         <li> Equipment Request </li>
