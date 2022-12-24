@@ -107,3 +107,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
     <img src="https://i.imgur.com/hukYViC.png" height="65%" width="65%" alt="agent panel new user"/>
     </p>
+    <p align="center">
+    <img src="https://i.imgur.com/QihL6U3.png" height="65%" width="65%" alt="new user created"/>
+    </p>
+    <hr>
+    - <b><i>Configure</b></i> <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">[SLA]</a>
+    Admin Panel -> Manage -> SLA
+    <ol>
+    <li>Sev-A (1 hour, 24/7)</li>
+    <li>Sev-B (4 hours, 24/7)</li>
+    <li>Sev-C (8 hours, business hours)</li>
+    </ol>
