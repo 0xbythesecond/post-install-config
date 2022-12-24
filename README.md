@@ -93,7 +93,7 @@ This tutorial outlines the post-install configuration of the open-source help de
         <li>John </li>
         </ol>
   <p align="center">
-    <img src="https://i.imgur.com/pxwqK2W.png" height="65%" width="65%" alt="create agents"/>
+    <img src="https://i.imgur.com/pxwqK2W.png" height="70%" width="70%" alt="create agents"/>
     </p>
 <p align="center">
     <img src="https://i.imgur.com/Hp11jGk.png" height="65%" width="65%" alt="establish access"/>
