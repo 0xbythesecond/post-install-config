@@ -135,5 +135,8 @@ This tutorial outlines the post-install configuration of the open-source help de
         <li> Equipment Request </li>
         <li> Password Reset </li>
  <p align="center">
-    <img src="https://i.imgur.com/n44Un1L.png" height="65%" width="65%" alt="list of current SLA"/>
+    <img src="https://i.imgur.com/n44Un1L.png" height="65%" width="65%" alt="create new help topic"/>
+    </p>
+    <p align="center">
+    <img src="https://i.imgur.com/MOE3unk.png" height="65%" width="65%" alt="business critical outage"/>
     </p>
