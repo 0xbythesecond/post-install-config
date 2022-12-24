@@ -63,3 +63,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/44g5RJ2.png" height="65%" width="65%" alt="create department name"/>
   </p>
+  <hr>
+  - <b><i>Configure </i></b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">[Teams]</a>
+  Admin Panel -> Agents -> Teams
+    1. Level I Support
+    2. Level II Support
