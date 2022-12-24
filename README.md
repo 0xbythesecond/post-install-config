@@ -72,3 +72,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
     <img src="https://i.imgur.com/M1ISoyE.png" height="65%" width="65%" alt="create department name"/>
     </p>
+    <p align="center">
+    <img src="https://imgur.com/steRLxe.png" height="65%" width="65%" alt="create team"/>
+    </p>
