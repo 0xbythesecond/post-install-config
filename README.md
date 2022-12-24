@@ -147,4 +147,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
     <img src="https://i.imgur.com/RFC1bTH.png" height="65%" width="65%" alt="all tickets that have been created"/>
 </p>
-<b><i>🙌💥Fee-Fi-Fo-Fum This Here Lab is Done 🙌💥</b></i>
+<p align="center"><b><i>🙌💥Fee-Fi-Fo-Fum This Here Lab is Done! 🙌💥</b></i></p>
