@@ -78,7 +78,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
           <img src="https://i.imgur.com/xUwxacj.png" height="65%" width="65%" alt="dipslays current teams"/>
     </p>
--<b>Allow anyone to create tickets</b>
+-<b>Allow anyone to create tickets </b> in <a href="https://docs.osticket.com/en/latest/Admin/Settings/Users.html?highlight=registration">User Settings</a>
     <ol>
     <li>Admin Panel -> Settings -> User Settings </li>
     <li>Registration Required: Require registration and login to create tickets -for this lab, we will leave it unchecked so that tickets can be created without restrictions/limitations</li>
