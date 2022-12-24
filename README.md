@@ -118,3 +118,9 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>Sev-B (4 hours, 24/7)</li>
     <li>Sev-C (8 hours, business hours)</li>
     </ol>
+    <p align="center">
+    <img src="https://i.imgur.com/KH2b0nw.png" height="65%" width="65%" alt="add new SLA"/>
+    </p>
+    <p align="center">
+    <img src="https://i.imgur.com/NB5Ovwi.png" height="65%" width="65%" alt="add new SLA severity"/>
+    </p>
