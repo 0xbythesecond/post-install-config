@@ -130,10 +130,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <hr>
 - <b><i> Configure Help Topics</b></i>
     1. Admin Panel -> Manage -> Help Topics
-        1. Business Critical Outage
-        2. Personal Computer Issues
-        3. Equipment Request
-        4. Password Reset
+        <li> Business Critical Outage </li>
+        <li> Personal Computer Issues </li>
+        <li> Equipment Request </li>
+        <li> Password Reset </li>
  <p align="center">
     <img src="https://i.imgur.com/n44Un1L.png" height="65%" width="65%" alt="list of current SLA"/>
     </p>
