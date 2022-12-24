@@ -83,6 +83,6 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>Admin Panel -> Settings -> User Settings </li>
     <li>Registration Required: Require registration and login to create tickets -for this lab, we will leave it unchecked so that tickets can be created without restrictions/limitations</li>
     </ol>
-    <p> 
+    <p align="center"> 
     <img src="https://i.imgur.com/uMx7BbE.png" height="65%" width="65%" alt="require registration checkbox option"/>
          </p>
