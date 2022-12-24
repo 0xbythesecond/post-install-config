@@ -124,3 +124,6 @@ This tutorial outlines the post-install configuration of the open-source help de
     <p align="center">
     <img src="https://i.imgur.com/NB5Ovwi.png" height="65%" width="65%" alt="add new SLA severity"/>
     </p>
+<p align="center">
+    <img src="https://i.imgur.com/uDkD7Lv.png" height="65%" width="65%" alt="list of current SLA"/>
+    </p>
