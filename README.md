@@ -127,3 +127,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
     <img src="https://i.imgur.com/uDkD7Lv.png" height="65%" width="65%" alt="list of current SLA"/>
     </p>
+<hr>
+- <b><i> Configure Help Topics</b></i>
+    1. Admin Panel -> Manage -> Help Topics
+        1. Business Critical Outage
+        2. Personal Computer Issues
+        3. Equipment Request
+        4. Password Reset
+ <p align="center">
+    <img src="https://i.imgur.com/n44Un1L.png" height="65%" width="65%" alt="list of current SLA"/>
+    </p>
