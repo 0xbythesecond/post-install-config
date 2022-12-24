@@ -65,6 +65,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   </p>
   <hr>
   - <b><i>Configure </i></b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">[Teams]</a>
-  Admin Panel -> Agents -> Teams
-    1. Level I Support
-    2. Level II Support
+  <ol><li>Admin Panel -> Agents -> Teams</li>
+    <li>Level I Support </li>
+    <li>Level II Support </li>
+</ol>
