@@ -87,7 +87,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/uMx7BbE.png" height="65%" width="65%" alt="require registration checkbox option"/>
          </p>
   <hr>
-  - **Configure** <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">[Agents (workers)]</a>
+  - <b><i>Configure</b></i> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">[Agents (workers)]</a>
     <ol>Admin Panel -> Agents -> Add New
     <li>Jane</li>
         <li>John </li>
