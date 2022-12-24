@@ -98,3 +98,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
     <img src="https://i.imgur.com/Hp11jGk.png" height="65%" width="65%" alt="establish access"/>
     </p>
+    <hr>
+    - <b><i>Configure</i></b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">[Users (customers)]</a>
+    <ol>Agent Panel -> Users -> Add New
+        <li>Karen</li>
+    <li>Ken</li>
+</ol>
