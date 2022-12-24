@@ -69,3 +69,6 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>Level I Support </li>
     <li>Level II Support </li>
 </ol>
+<p align="center">
+    <img src="https://i.imgur.com/M1ISoyE.png" height="65%" width="65%" alt="create department name"/>
+    </p>
