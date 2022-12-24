@@ -104,3 +104,6 @@ This tutorial outlines the post-install configuration of the open-source help de
         <li>Karen</li>
     <li>Ken</li>
 </ol>
+<p align="center">
+    <img src="https://i.imgur.com/hukYViC.png" height="65%" width="65%" alt="agent panel new user"/>
+    </p>
