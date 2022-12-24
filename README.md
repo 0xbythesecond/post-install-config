@@ -20,8 +20,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Login to the osTicket Admin Panel
 - Congfire Roles
 - Configure Deparments
-- Item 4
-- Item 5
+- Configure Teams
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 <p> Login to the osTicket Admin Panel. Below displays the tickets for admin/helpdesk User Interface (UI) that will reflect the tickets that are created by the End User ([http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php))
@@ -141,5 +141,5 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/MOE3unk.png" height="65%" width="65%" alt="business critical outage"/>
     </p>
     <p align="center">
-    <img src="https://i.imgur.com/2yRTUXk.png" height="65%" width="65%" alt="personal computer issue"/>
+    <img src="https://i.imgur.com/6dBcOCd.png" height="65%" width="65%" alt="personal computer issue"/>
     </p>
