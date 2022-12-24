@@ -78,3 +78,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
           <img src="https://i.imgur.com/xUwxacj.png" height="65%" width="65%" alt="dipslays current teams"/>
     </p>
+-<b>Allow anyone to create tickets</b>
+    1. Admin Panel -> Settings -> User Settings
+    2. Registration Required: Require registration and login to create tickets
