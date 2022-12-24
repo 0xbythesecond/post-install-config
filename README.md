@@ -136,7 +136,10 @@ This tutorial outlines the post-install configuration of the open-source help de
         <li> Password Reset </li>
  <p align="center">
     <img src="https://i.imgur.com/n44Un1L.png" height="65%" width="65%" alt="create new help topic"/>
-    </p>
+</p>
     <p align="center">
     <img src="https://i.imgur.com/MOE3unk.png" height="65%" width="65%" alt="business critical outage"/>
+    </p>
+    <p align="center">
+    <img src="https://i.imgur.com/2yRTUXk.png" height="65%" width="65%" alt="personal computer issue"/>
     </p>
