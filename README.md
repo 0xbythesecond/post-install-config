@@ -149,3 +149,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p align="center"><b><i>🙌💥Fee-Fi-Fo-Fum This Here Lab is Done! 🙌💥</b></i></p>
 <p align="center"><b><i>“In twenty years from now on, you’ll be more disappointed by the things you didn’t do than by the things you did do."</p></b></i>🤔
+<br />
+<br />
+<p align="right"> Next up, <a href="https://github.com/0xbythesecond/ticket-lifecycle"
+>Ticket Lifecycle </a></p>
