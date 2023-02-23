@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     <ol>
   <li>Admin Panel -> Agents -> Roles</li>
   <li>Supreme Admin</li>
-  </ol>
+    </ol>
 <p align="center">
 <img src="https://i.imgur.com/Jw4EbMN.png" height="65%" width="65%" alt="UI to add Role"/>
 </p>
@@ -55,6 +55,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     <ol>
     <li>Admin Panel -> Agents -> Departments</li>
     <li> System Administrators</li>
+    <li>Leave the remaining fields set as default and simply review what selections are available to choose from</li> 
       </ol>
 </p>
 <p align="center"> 
