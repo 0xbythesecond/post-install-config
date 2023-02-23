@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <br />
-- <b>Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">[Roles]</a>
+- <b>Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">[Roles]</a> <br /> Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
     <ol>
   <li>Admin Panel -> Agents -> Roles</li>
   <li>Supreme Admin</li>
@@ -50,7 +50,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <hr>
 <p>
-  -<b>Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">[Departments]</a>
+  -<b>Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">[Departments]</a> <br />
+  Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
     <ol>
     <li>Admin Panel -> Agents -> Departments</li>
     <li> System Administrators</li>
@@ -64,7 +65,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/44g5RJ2.png" height="65%" width="65%" alt="create department name"/>
   </p>
   <hr>
-  - <b><i>Configure </i></b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">[Teams]</a>
+  - <b><i>Configure </i></b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">[Teams]</a> <br />
+  Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
   <ol><li>Admin Panel -> Agents -> Teams</li>
     <li>Level I Support </li>
     <li>Level II Support </li>
@@ -78,8 +80,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
           <img src="https://i.imgur.com/xUwxacj.png" height="65%" width="65%" alt="dipslays current teams"/>
     </p>
--<b>Allow anyone to create tickets </b> in <a href="https://docs.osticket.com/en/latest/Admin/Settings/Users.html?highlight=registration">User Settings</a>
-    <ol>
+-<b>Allow anyone to create tickets </b> in <a href="https://docs.osticket.com/en/latest/Admin/Settings/Users.html?highlight=registration">User Settings</a> <br />
+Registration can be required for Users to create tickets on the Help Desk to prevent random tickets or to limit Users’ accessibility to the help desk.
+   <ol>
     <li>Admin Panel -> Settings -> User Settings </li>
     <li>Registration Required: Require registration and login to create tickets -for this lab, we will leave it unchecked so that tickets can be created without restrictions/limitations</li>
     </ol>
@@ -87,7 +90,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/uMx7BbE.png" height="65%" width="65%" alt="require registration checkbox option"/>
          </p>
   <hr>
-  - <b><i>Configure</b></i> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">[Agents (workers)]</a>
+  - <b><i>Configure</b></i> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">[Agents (workers)]</a> <br />
+Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
     <ol>Admin Panel -> Agents -> Add New
     <li>Jane</li>
         <li>John </li>
@@ -99,7 +103,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/Hp11jGk.png" height="65%" width="65%" alt="establish access"/>
     </p>
     <hr>
-    - <b><i>Configure</i></b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">[Users (customers)]</a>
+    - <b><i>Configure</i></b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">[Users (customers)]</a> <br >
+    Users (customers) can create an account and log in to create a ticket or check on their ticket status as well.
     <ol>Agent Panel -> Users -> Add New
         <li>Karen</li>
     <li>Ken</li>
@@ -111,7 +116,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/QihL6U3.png" height="65%" width="65%" alt="new user created"/>
     </p>
     <hr>
-    - <b><i>Configure</b></i> <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">[SLA]</a>
+    - <b><i>Configure</b></i> <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">[SLA]</a><br />    
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
     Admin Panel -> Manage -> SLA
     <ol>
     <li>Sev-A (1 hour, 24/7)</li>
@@ -128,7 +134,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img src="https://i.imgur.com/uDkD7Lv.png" height="65%" width="65%" alt="list of current SLA"/>
     </p>
 <hr>
-- <b><i> Configure </b></i> <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html?highlight=help%20topics">Help Topics</a>
+- <b><i> Configure </b></i> <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html?highlight=help%20topics">Help Topics</a> <br />
+Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
      <h5>Admin Panel -> Manage -> Help Topics</h5>
         <li> Business Critical Outage </li>
         <li> Personal Computer Issues </li>
